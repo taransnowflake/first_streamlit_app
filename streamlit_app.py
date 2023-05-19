@@ -1,6 +1,6 @@
 import streamlit
-#import pandas
-#import requests
+import pandas
+import requests
 from urlib.error import URLError
 
 streamlit.title('My parents new healthy dinner')
